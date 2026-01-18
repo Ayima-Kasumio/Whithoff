@@ -1,0 +1,10 @@
+add 2 éléments repétitifs
+add cerise + cerise_mangee
+add commentaire projet
+
+
+refonte du projet (proportionnel à l'ecran)
+upgrade scoreboard
+changer couleur
+upgrade arbre
+upgrade herbe
